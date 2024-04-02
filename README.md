@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Anas Neumann. I have an MSc in software engineering and a PhD in business administration (which in practice meant optimization, simulation, and machine learning applied to industrial problems ^^) from [Laval University][https://www.example.com](https://www.ulaval.ca/) in Canada 🇨🇦. 
+My name is Anas Neumann. I have an MSc in software engineering and a PhD in business administration (which in practice meant optimization, simulation, and machine learning applied to industrial problems ^^) from [Laval University](https://www.ulaval.ca/) in Canada 🇨🇦. 
 
-I'm currently a post-doc and deep-learning researcher at [Polytechnique Montréal](https://www.polymtl.ca/) and [https://www.example.com](https://www.ulaval.ca/). 
+I'm currently a post-doc and deep-learning researcher at [Polytechnique Montréal](https://www.polymtl.ca/) and [Laval University](https://www.ulaval.ca/). 
 
 I work with ✨**language models / NLP**✨ (_HuggingFace, Transformers, LangChain, LoRA/QLoRA, etc._) to solve manufacturing issues and ✨**time-series models**✨ (_LSTM, GRU, seq2seq, etc._) to help patients with type-1 diabetes. 
 
