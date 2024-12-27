@@ -8,4 +8,6 @@ I work with ✨**language models / NLP**✨ (_HuggingFace, Transformers, LangCha
 
 My new favorite research areas from a technical point of view are ✨**Graph Neural Networks**✨, ✨**Deep Reinforcement Learning**✨ (_PPO_), and ✨**Meta-Learning**✨ (_MAML_). 
 
+I participate in the creation of [https://cloud.comwork.io](CWCloud), discover more here: [https://www.youtube.com/watch?v=-eLlmisM4dw&list=PLVa_2sL_l0msxUnmaSpLAGlwOxizXWjht](https://www.youtube.com/watch?v=-eLlmisM4dw&list=PLVa_2sL_l0msxUnmaSpLAGlwOxizXWjht)
+
 Besides, I'm also the lead dev of the [www.uprodit.com](https://www.uprodit.com)  web and mobile platform as well as the Genetic Algorithm-powered [www.i4evosim.com](https://www.i4evosim.com).
