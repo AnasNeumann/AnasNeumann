@@ -11,3 +11,5 @@ I co-founded [CWCloud](https://wwww.cwcloud.tech) and participate in the creatio
 My new favorite research areas from a technical point of view are ✨**Graph Neural Networks**✨, ✨**Deep Reinforcement Learning**✨ (_PPO_), and ✨**Meta-Learning**✨ (_MAML_). 
 
 Besides, I'm also the lead dev of the [www.uprodit.com](https://www.uprodit.com)  web and mobile platform as well as the Genetic Algorithm-powered [www.i4evosim.com](https://www.i4evosim.com).
+
+![background](back.png)
