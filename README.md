@@ -6,8 +6,8 @@ I'm currently a post-doc and deep-learning researcher at [Polytechnique Montréa
 
 I work with ✨**language models / NLP**✨ (_HuggingFace, Transformers, LangChain, LoRA/QLoRA, etc._) to solve manufacturing issues and ✨**time-series models**✨ (_LSTM, GRU, seq2seq, etc._) to help patients with type-1 diabetes. 
 
-My new favorite research areas from a technical point of view are ✨**Graph Neural Networks**✨, ✨**Deep Reinforcement Learning**✨ (_PPO_), and ✨**Meta-Learning**✨ (_MAML_). 
+I co-founded [CWCloud](https://wwww.cwcloud.tech) and participate in the creation of [www.cwcloud.tech](https://wwww.cwcloud.tech), discover more here: [https://www.youtube.com/watch?v=-eLlmisM4dw&list=PLVa_2sL_l0msxUnmaSpLAGlwOxizXWjht](https://www.youtube.com/watch?v=-eLlmisM4dw&list=PLVa_2sL_l0msxUnmaSpLAGlwOxizXWjht)
 
-I participate in the creation of [CWCloud](https://cloud.comwork.io), discover more here: [https://www.youtube.com/watch?v=-eLlmisM4dw&list=PLVa_2sL_l0msxUnmaSpLAGlwOxizXWjht](https://www.youtube.com/watch?v=-eLlmisM4dw&list=PLVa_2sL_l0msxUnmaSpLAGlwOxizXWjht)
+My new favorite research areas from a technical point of view are ✨**Graph Neural Networks**✨, ✨**Deep Reinforcement Learning**✨ (_PPO_), and ✨**Meta-Learning**✨ (_MAML_). 
 
 Besides, I'm also the lead dev of the [www.uprodit.com](https://www.uprodit.com)  web and mobile platform as well as the Genetic Algorithm-powered [www.i4evosim.com](https://www.i4evosim.com).
